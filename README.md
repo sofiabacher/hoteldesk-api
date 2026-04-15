@@ -24,6 +24,20 @@ HotelDesk es un sistema de gestión hotelera diseñado para la administración d
 El proyecto está desarrollado como una API REST, aplicando el patrón de arquitectura MVC para organizar la lógica del sistema.  
 Se implementan operaciones CRUD para la gestión de datos y autenticación mediante JWT para el control de accesos.
 
+## ▶️ Cómo ejecutar el proyecto
+
+### Backend
+
+1. Clonar el repositorio
+2. Instalar dependencias: npm install
+3. Ejecutar el servidor: npm start
+
+### Frontend
+
+1. Ir a la carpeta del frontend
+2. Instalar dependencias: npm install
+3. Ejecutar la aplicación: npm run dev
+
 ## ⚠️ Estado del proyecto
 
 Proyecto académico en desarrollo con fines de aprendizaje.
