@@ -28,6 +28,7 @@ Se implementan operaciones CRUD para la gestión de datos y autenticación media
 
 Para ejecutar el proyecto es necesario crear un archivo `.env` en la raíz del backend con las siguientes variables:
 
+```
 NODE_ENV=development
 PORT=3000
 
@@ -51,6 +52,7 @@ EMAIL_PASS=tu_app_password
 EMAIL_FROM="HotelDesk <no-reply@hoteldesk.com>"
 
 FRONTEND_URL=http://localhost:5173
+```
 
 Asegurate de configurar estos valores según tu entorno local.
 
